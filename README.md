@@ -1,8 +1,13 @@
-# Movie Trailers Website
+# Movie Trailers Website Project
+
+This repository consists the source code for the Movie Trailers Website project
+for the Udacity Fullstack Web Developer Nanodegree program.
 
 ## Overview
 
-This website lists down our favorite movies and views the respective trailers on clicking on the movie images.
+This website which is generated with the help of the Python code present,
+lists down our favorite movies and views the respective trailers
+on clicking on the movie images.
 
 ## Usage
 
